@@ -7,7 +7,7 @@ import streamlit as st
 import random
 
 # Load the dataset
-url = 'https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews'
+url = 'https://github.com/kirannarayan82/moviesuccessprediction/blob/main/IMBD.csv'
 df = pd.read_csv(url)
 
 # Preprocess the data
